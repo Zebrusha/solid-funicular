@@ -1,0 +1,328 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.perva{
+	width: 100%;
+	height: 70vh;
+	background: MediumSlateBlue;
+}
+
+
+
+.verh{
+	width: 100%;
+	height: 20vh;
+	background: mediumslateblue;
+	font-size: 40px;
+	color: whitesmoke;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+
+.vtora{
+	width: 100%;
+	height: 90vh;
+	background: MediumSlateBlue;
+	gap: 1%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.cart{
+	background: whitesmoke;
+	width: 16%;
+	height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.disign{
+	width: 90%;
+	height: 115px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.logo{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+	background: tomato;
+}
+.text{
+	font-style: italic;
+}
+
+.disig{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.more{
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+.tp{
+	align-self: flex-start;
+}
+
+
+
+.tretia{
+	width: 100%;
+	height: 80vh;
+	background: mediumslateblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.strategi{
+	width: 19%;
+	height: 60vh;
+	
+	display: flex;
+	justify-content: center;
+}
+
+.spis{
+	list-style-type: none;
+	display: flex;
+	flex-direction: column;
+	gap: 8%;
+	color: whitesmoke;
+}
+.str{
+	font-size: 30px;
+	color: whitesmoke;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+}
+
+
+.probel{
+	width: 100%;
+	height: 20vh;
+	background: mediumslateblue;
+	font-size: 40px;
+	color: whitesmoke;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+
+.chetverta{
+	width: 100%;
+	height: 170vh;
+	background: mediumslateblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 2%;
+}
+
+.corparate{
+	width: 20%;
+	height: 400px;
+	border: 2px solid greenyellow;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	background-color: whitesmoke;
+}
+.grafic{
+	width: 100%;
+	height: 25vh;
+	border: 2px solid greenyellow;
+	background-color: whitesmoke;
+}
+.grafics{
+	font-size: 24px;
+	background-color: whitesmoke;
+}
+
+
+
+.pata{
+	width: 100%;
+	height: 100vh;
+	background: mediumslateblue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.graphic{
+	width: 80%;
+	height: 80vh;
+	border: 2px solid greenyellow;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: whitesmoke;
+}
+.cartl{
+	width: 40%;
+	height: 70vh;
+	border: 2px solid yellow;
+}
+.cartr{
+
+	width: calc(50% - 4px);
+	height: 80vh;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.We{
+	width: 100%;
+	height: 32%;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.red{
+	width: 200px;
+	height: 50px;
+	border-radius: 45%;
+	font-size: 24px;
+	color: crimson;
+	border: 2px solid crimson;
+}
+.big{
+	font-size: 42px;
+}
+
+
+
+.hesta{
+	background-color: mediumslateblue;
+	width: 100%;
+	height: 130vh;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.cifra{
+	width: 45%;
+	height: 600px;
+}
+.textx{
+	
+	width: 100%;
+	height: 20%;
+	font-size: 59px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: whitesmoke;
+}
+.stati{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	width: calc(50% - 24px);
+	height: 25vh;
+	background-color: whitesmoke;
+	font-size: 55px;
+}
+.s{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 20px;	
+}
+.st{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.zgl{
+	width: 100%;
+	height: 12vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.cfr{
+	color: salmon;
+}
+.txt{
+	font-size: 30px;
+	font-family: "Arial black";
+}
+
+
+
+.sedma{
+	background-color: whitesmoke;
+	height: 150vh;
+	display: flex;
+	justify-content: CENTER;
+	gap: 4%;
+}
+
+.sledi{
+	width: 100%;
+	color: whitesmoke;
+	font-size: 40px;
+}
+.la{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sled{
+	width: 20%;
+	height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	background-color: lightgray;
+}
+.sld{
+	width: 100%;
+	height: 33%;
+}
+.fot{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background: tomato;
+}
+.tx{
+	font-size: 23px;
+	color: gray;
+}
+.im{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
